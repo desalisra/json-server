@@ -1,0 +1,433 @@
+{
+  "th_reqprod": [
+    {
+      "id": "856001490",
+      "Req_OutCode": "856",
+      "Req_Number": "856001490",
+      "Req_Date": "2022-04-12 15:05:57",
+      "Req_ConfirmYN": "Y",
+      "Req_Printed": "1",
+      "Req_TotalNetPrice": "73504",
+      "Req_TotalQtyDetail": "9",
+      "Req_ConfirmBy": "21258",
+      "Req_LastUpdate": "2022-04-12 15:05:57",
+      "Req_UserID": "21151",
+      "Req_RecordNum": "1490",
+      "Req_ActiveYN": "Y",
+      "Req_Type": "A"
+    },
+    {
+      "id": "856001489",
+      "Req_OutCode": "856",
+      "Req_Number": "856001489",
+      "Req_Date": "2022-04-12 15:17:01",
+      "Req_ConfirmYN": "Y",
+      "Req_Printed": "1",
+      "Req_TotalNetPrice": "300000",
+      "Req_TotalQtyDetail": "5",
+      "Req_ConfirmBy": "21258",
+      "Req_LastUpdate": "2022-04-12 15:17:01",
+      "Req_UserID": "21151",
+      "Req_RecordNum": "1490",
+      "Req_ActiveYN": "Y",
+      "Req_Type": "A"
+    },
+    {
+      "id": "856001488",
+      "Req_OutCode": "856",
+      "Req_Number": "856001488",
+      "Req_Date": "2022-04-12 15:17:19",
+      "Req_ConfirmYN": "Y",
+      "Req_Printed": "1",
+      "Req_TotalNetPrice": "500000",
+      "Req_TotalQtyDetail": "10",
+      "Req_ConfirmBy": "21258",
+      "Req_LastUpdate": "2022-04-12 15:17:19",
+      "Req_UserID": "21151",
+      "Req_RecordNum": "1490",
+      "Req_ActiveYN": "Y",
+      "Req_Type": "A"
+    }
+  ],
+  "td_reqprod": [
+    {
+      "th_reqprodId": "856001490",
+      "Req_OutCode": "856",
+      "Req_Number": "856001490",
+      "Req_ProdCode": "0202321",
+      "Req_Qty": "4",
+      "Req_OrderLimit": "11",
+      "Req_Flag": "1",
+      "Req_HONum": null,
+      "Req_HODate": null,
+      "Req_PurchNum": null,
+      "Req_PurchDate": null,
+      "Req_AlocNum": null,
+      "Req_AlocDate": null,
+      "Req_TrfNum": null,
+      "Req_TrfDate": null,
+      "Req_RcvNum": null,
+      "Req_RcvDate": null,
+      "Req_CancelDate": null,
+      "Req_CancelCode": null,
+      "Req_Reorder": "10",
+      "Req_LastUpdate": "2022-04-12 15:23:35",
+      "Req_UserID": "21151",
+      "Req_ActiveYN": "Y",
+      "Req_RecYN": "Y",
+      "Req_RecQty": "4",
+      "Req_ROQty": "0"
+    },
+    {
+      "th_reqprodId": "856001490",
+      "Req_OutCode": "856",
+      "Req_Number": "856001490",
+      "Req_ProdCode": "0202352",
+      "Req_Qty": "1",
+      "Req_OrderLimit": "25",
+      "Req_Flag": "1",
+      "Req_HONum": null,
+      "Req_HODate": null,
+      "Req_PurchNum": null,
+      "Req_PurchDate": null,
+      "Req_AlocNum": null,
+      "Req_AlocDate": null,
+      "Req_TrfNum": null,
+      "Req_TrfDate": null,
+      "Req_RcvNum": null,
+      "Req_RcvDate": null,
+      "Req_CancelDate": null,
+      "Req_CancelCode": null,
+      "Req_Reorder": "10",
+      "Req_LastUpdate": "2022-04-12 15:24:29",
+      "Req_UserID": "21151",
+      "Req_ActiveYN": "Y",
+      "Req_RecYN": "Y",
+      "Req_RecQty": "1",
+      "Req_ROQty": "0"
+    },
+    {
+      "th_reqprodId": "856001490",
+      "Req_OutCode": "856",
+      "Req_Number": "856001490",
+      "Req_ProdCode": "0202488",
+      "Req_Qty": "2",
+      "Req_OrderLimit": "8",
+      "Req_Flag": "1",
+      "Req_HONum": null,
+      "Req_HODate": null,
+      "Req_PurchNum": null,
+      "Req_PurchDate": null,
+      "Req_AlocNum": null,
+      "Req_AlocDate": null,
+      "Req_TrfNum": null,
+      "Req_TrfDate": null,
+      "Req_RcvNum": null,
+      "Req_RcvDate": null,
+      "Req_CancelDate": null,
+      "Req_CancelCode": null,
+      "Req_Reorder": "34",
+      "Req_LastUpdate": "2022-04-12 15:26:22",
+      "Req_UserID": "21151",
+      "Req_ActiveYN": "Y",
+      "Req_RecYN": "Y",
+      "Req_RecQty": "2",
+      "Req_ROQty": "0"
+    },
+    {
+      "th_reqprodId": "856001490",
+      "Req_OutCode": "856",
+      "Req_Number": "856001490",
+      "Req_ProdCode": "0202521",
+      "Req_Qty": "2",
+      "Req_OrderLimit": "6",
+      "Req_Flag": "1",
+      "Req_HONum": null,
+      "Req_HODate": null,
+      "Req_PurchNum": null,
+      "Req_PurchDate": null,
+      "Req_AlocNum": null,
+      "Req_AlocDate": null,
+      "Req_TrfNum": null,
+      "Req_TrfDate": null,
+      "Req_RcvNum": null,
+      "Req_RcvDate": null,
+      "Req_CancelDate": null,
+      "Req_CancelCode": null,
+      "Req_Reorder": "29",
+      "Req_LastUpdate": "2022-04-12 15:26:31",
+      "Req_UserID": "21151",
+      "Req_ActiveYN": "Y",
+      "Req_RecYN": "Y",
+      "Req_RecQty": "2",
+      "Req_ROQty": "0"
+    },
+    {
+      "th_reqprodId": "856001489",
+      "Req_OutCode": "856",
+      "Req_Number": "856001489",
+      "Req_ProdCode": "0200001",
+      "Req_Qty": "5",
+      "Req_OrderLimit": "6",
+      "Req_Flag": "1",
+      "Req_HONum": null,
+      "Req_HODate": null,
+      "Req_PurchNum": null,
+      "Req_PurchDate": null,
+      "Req_AlocNum": null,
+      "Req_AlocDate": null,
+      "Req_TrfNum": null,
+      "Req_TrfDate": null,
+      "Req_RcvNum": null,
+      "Req_RcvDate": null,
+      "Req_CancelDate": null,
+      "Req_CancelCode": null,
+      "Req_Reorder": "29",
+      "Req_LastUpdate": "2022-04-12 15:30:20",
+      "Req_UserID": "21151",
+      "Req_ActiveYN": "Y",
+      "Req_RecYN": "Y",
+      "Req_RecQty": "5",
+      "Req_ROQty": "0"
+    },
+    {
+      "th_reqprodId": "856001488",
+      "Req_OutCode": "856",
+      "Req_Number": "856001488",
+      "Req_ProdCode": "0200001",
+      "Req_Qty": "5",
+      "Req_OrderLimit": "6",
+      "Req_Flag": "1",
+      "Req_HONum": null,
+      "Req_HODate": null,
+      "Req_PurchNum": null,
+      "Req_PurchDate": null,
+      "Req_AlocNum": null,
+      "Req_AlocDate": null,
+      "Req_TrfNum": null,
+      "Req_TrfDate": null,
+      "Req_RcvNum": null,
+      "Req_RcvDate": null,
+      "Req_CancelDate": null,
+      "Req_CancelCode": null,
+      "Req_Reorder": "29",
+      "Req_LastUpdate": "2022-04-12 15:30:42",
+      "Req_UserID": "21151",
+      "Req_ActiveYN": "Y",
+      "Req_RecYN": "Y",
+      "Req_RecQty": "5",
+      "Req_ROQty": "0"
+    },
+    {
+      "th_reqprodId": "856001488",
+      "Req_OutCode": "856",
+      "Req_Number": "856001488",
+      "Req_ProdCode": "0200002",
+      "Req_Qty": "5",
+      "Req_OrderLimit": "6",
+      "Req_Flag": "1",
+      "Req_HONum": null,
+      "Req_HODate": null,
+      "Req_PurchNum": null,
+      "Req_PurchDate": null,
+      "Req_AlocNum": null,
+      "Req_AlocDate": null,
+      "Req_TrfNum": null,
+      "Req_TrfDate": null,
+      "Req_RcvNum": null,
+      "Req_RcvDate": null,
+      "Req_CancelDate": null,
+      "Req_CancelCode": null,
+      "Req_Reorder": "29",
+      "Req_LastUpdate": "2022-04-12 15:31:06",
+      "Req_UserID": "21151",
+      "Req_ActiveYN": "Y",
+      "Req_RecYN": "Y",
+      "Req_RecQty": "5",
+      "Req_ROQty": "0"
+    }
+  ],
+
+  "products": [
+    {
+      "procode": 29,
+      "product_name": "Ergonomic Fresh Bike",
+      "product_HNA": "51.00",
+      "id": "1"
+    },
+    {
+      "procode": 42,
+      "product_name": "Small Soft Sausages",
+      "product_HNA": "207.00",
+      "id": "2"
+    },
+    {
+      "procode": 19,
+      "product_name": "Generic Steel Car",
+      "product_HNA": "305.00",
+      "id": "3"
+    },
+    {
+      "procode": 95,
+      "product_name": "Awesome Steel Towels",
+      "product_HNA": "788.00",
+      "id": "4"
+    },
+    {
+      "procode": 86,
+      "product_name": "Sleek Frozen Gloves",
+      "product_HNA": "75.00",
+      "id": "5"
+    },
+    {
+      "procode": 46,
+      "product_name": "Sleek Cotton Shoes",
+      "product_HNA": "185.00",
+      "id": "6"
+    },
+    {
+      "procode": 12,
+      "product_name": "Intelligent Plastic Chicken",
+      "product_HNA": "119.00",
+      "id": "7"
+    },
+    {
+      "procode": 27,
+      "product_name": "Awesome Soft Car",
+      "product_HNA": "370.00",
+      "id": "8"
+    },
+    {
+      "procode": 1,
+      "product_name": "Incredible Wooden Keyboard",
+      "product_HNA": "12.00",
+      "id": "9"
+    },
+    {
+      "procode": 20,
+      "product_name": "Small Fresh Tuna",
+      "product_HNA": "895.00",
+      "id": "10"
+    },
+    {
+      "procode": 90,
+      "product_name": "Ergonomic Plastic Fish",
+      "product_HNA": "501.00",
+      "id": "11"
+    },
+    {
+      "procode": 35,
+      "product_name": "Handcrafted Concrete Soap",
+      "product_HNA": "417.00",
+      "id": "12"
+    },
+    {
+      "procode": 13,
+      "product_name": "Rustic Soft Sausages",
+      "product_HNA": "81.00",
+      "id": "13"
+    },
+    {
+      "procode": 42,
+      "product_name": "Ergonomic Concrete Table",
+      "product_HNA": "276.00",
+      "id": "14"
+    },
+    {
+      "procode": 12,
+      "product_name": "Practical Granite Tuna",
+      "product_HNA": "496.00",
+      "id": "15"
+    },
+    {
+      "procode": 55,
+      "product_name": "Licensed Steel Cheese",
+      "product_HNA": "732.00",
+      "id": "16"
+    },
+    {
+      "procode": 22,
+      "product_name": "Awesome Metal Table",
+      "product_HNA": "71.00",
+      "id": "17"
+    },
+    {
+      "procode": 35,
+      "product_name": "Ergonomic Cotton Bacon",
+      "product_HNA": "224.00",
+      "id": "18"
+    },
+    {
+      "procode": 61,
+      "product_name": "Practical Cotton Salad",
+      "product_HNA": "81.00",
+      "id": "19"
+    },
+    {
+      "procode": 16,
+      "product_name": "Refined Steel Chips",
+      "product_HNA": "512.00",
+      "id": "20"
+    },
+    {
+      "procode": 9,
+      "product_name": "Intelligent Frozen Computer",
+      "product_HNA": "576.00",
+      "id": "21"
+    },
+    {
+      "procode": 18,
+      "product_name": "Awesome Metal Shoes",
+      "product_HNA": "202.00",
+      "id": "22"
+    },
+    {
+      "procode": 64,
+      "product_name": "Handcrafted Fresh Mouse",
+      "product_HNA": "934.00",
+      "id": "23"
+    },
+    {
+      "procode": 93,
+      "product_name": "Rustic Cotton Car",
+      "product_HNA": "549.00",
+      "id": "24"
+    },
+    {
+      "procode": 18,
+      "product_name": "Handmade Steel Pizza",
+      "product_HNA": "347.00",
+      "id": "25"
+    },
+    {
+      "procode": 0,
+      "product_name": "Unbranded Granite Chips",
+      "product_HNA": "366.00",
+      "id": "26"
+    },
+    {
+      "procode": 72,
+      "product_name": "Rustic Wooden Bike",
+      "product_HNA": "926.00",
+      "id": "27"
+    },
+    {
+      "procode": 18,
+      "product_name": "Ergonomic Metal Mouse",
+      "product_HNA": "157.00",
+      "id": "28"
+    },
+    {
+      "procode": 21,
+      "product_name": "Incredible Granite Keyboard",
+      "product_HNA": "367.00",
+      "id": "29"
+    },
+    {
+      "procode": 57,
+      "product_name": "Practical Metal Towels",
+      "product_HNA": "700.00",
+      "id": "30"
+    }
+  ]
+}
